@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Laptop</comment>
+<entry key="OS">Windows10</entry>
+<entry key="Model">Latitude</entry>
+<entry key="brand">Dell</entry>
+<entry key="processor">17</entry>
+</properties>
